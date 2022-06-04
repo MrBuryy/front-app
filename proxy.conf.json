@@ -1,0 +1,6 @@
+{
+  "/graphql": {
+    "target": "https://peaceful-cliffs-33818.herokuapp.com/",
+    "secure": false
+  }
+}
